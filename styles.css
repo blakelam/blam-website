@@ -52,7 +52,7 @@ body {
 
 .photo {
     width: 320px;
-    height: auto;
+    height: 320px;
     border: 12px solid  rgba(255,255,255,0.05);
     margin-bottom: 2rem;
 }
